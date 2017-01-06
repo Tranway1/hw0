@@ -68,10 +68,4 @@ public class MyContainers<T, S> implements Containers<T, S> {
 	}
 	
 	
-//	public boolean equals(MyContainers<T, S> con){
-//		if (map.equals(con.map))
-//			return true;
-//		else
-//			return false;
-//	}
 }
